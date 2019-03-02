@@ -1,7 +1,7 @@
 <template>
     <div class="header-container">
         <h1>Hiraz's Blog</h1>
-        <p>Vuepress custom theme for blog (<a href="#">Github</a>) </p>
+        <p>Vuepress custom theme for blog (<a href="https://github.com/hirazh/vuepress-blog-theme">Github</a>) </p>
     </div>
 </template>
 
